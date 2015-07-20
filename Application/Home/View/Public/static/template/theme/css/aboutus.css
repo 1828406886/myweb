@@ -1,0 +1,104 @@
+.content{ 
+	width:980px; 
+	height:auto; 
+	overflow:auto;
+	text-align:left;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.content .left{ 
+	float:left; 
+	width:160px;
+	height:auto;
+}
+
+.content .right{
+	float:right;
+	width:810px;
+}
+
+.left .show_menu { 
+	border:1px #dedede solid;
+	background-color:#ffffff
+}
+
+.left .show_menu .title{ 
+	height:30px; 
+	background:url(../images/course/relatecoursebg.gif) repeat-x; 
+	line-height:28px; 
+	font-size:12px; 
+	color:#000; 
+	font-weight:bold; 
+	text-indent:20px;
+}
+
+h2.fblack14{ 
+	padding-top:2px;
+	font-weight:bold
+}
+
+.left .show_menu .first_nav{
+	border-bottom:1px #e8e8e8 solid;
+	background:url(../images/firstnav_bg.gif) no-repeat;
+	width:125px; padding:5px 0 4px 30px;
+}
+
+.left .show_menu .first_nav a{ 
+	font-size:14px; 
+	font-weight:bold;
+}
+
+.left .show_menu .first_nav a.yellow{ 
+	text-decoration:underline!important;
+}
+
+.left .show_menu .nav{
+	line-height:25px;
+	background:#FFFFFF;
+	padding-top:5px;
+}
+
+.left .show_menu .nav li {
+	padding:2px 2px 2px 20px;
+	border-bottom:dotted 1px #e6e6e6;
+	margin:0 0 0 4px;
+	background:url(../images/nav_arrow.gif) no-repeat 12px 10px;
+	overflow:hidden;
+	white-space:nowrap
+}
+
+.left .show_menu li.noline{ 
+	border-bottom:0;
+}
+
+.left .show_menu li a.curr{
+	color:#000;
+	font-weight:bold
+}
+
+.left .show_menu{
+	border-bottom:1px #e6e6e6 dotted;
+	line-height:25px;
+}
+
+.left .show_menu li {
+	padding:2px 0 2px 20px;
+	border-bottom:dotted 1px #e6e6e6;
+	margin:0 0 0 4px;
+	background:url(../images/nav_arrow.gif) no-repeat 12px 10px;
+	overflow:hidden;
+	white-space:nowrap
+}
+
+.left .show_menu li.noline{ 
+	border-bottom:0;
+}
+
+.left .show_menu li a.yellow{
+	text-decoration:underline!important;
+}
+
+.right .about{ border:1px #dedede solid; background-color:#ffffff}
+.right .about h2{ padding:0 0 5px 0; line-height:25px; font-size:14px; color:#000000; margin:10px 15px;  border-bottom:1px #dedede solid;}
+.right .about .intro{ padding:5px 15px 15px 15px; font-size:14px; color:#000000; line-height:25px;}
