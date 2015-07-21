@@ -5,15 +5,15 @@
 	<title>孔子培训网_济宁培训网,孔子教育网-济宁培训学校教育招生网站</title>
 	<meta name="keywords" content="济宁培训网,孔子培训网,孔子教育网,济宁培训学校,济宁培训班,济宁会计培训,济宁成人高考,济宁电脑培训,济宁平面设计培训,济宁英语培训,济宁舞蹈培训,济宁驾校,济宁公务员考试,济宁化妆培训"/>
 	<meta name="description" content="孔子培训网是济宁12县市区首家集课程发布、学校展示、品牌推广、网络招生、在线报名的综合教育培训机构招生门户网。地区包含：济宁、邹城、兖州、曲阜、金乡、嘉祥、汶上、泗水、微山、梁山、鱼台。是成立最早，访问量最大的教育招生网站，包含英语、电脑、学历、技能、职业资格、会计、艺术健身、一对一、企业管理等正规培训学校最新招生信息。"/>
-	<link rel="stylesheet" href="/thinkadmin/Application/Home/View//Public/static/template/theme/css/global.css" />
-	<link rel="stylesheet" href="/thinkadmin/Application/Home/View//Public/static/template/theme/css/style.css" />
-	<link rel="stylesheet" href="/thinkadmin/Application/Home/View//Public/static/template/theme/css/index.css" />
-	<script src="/thinkadmin/Application/Home/View//Public/static/template/theme/js/setTab.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="/think/Application/Home/View//Public/static/template/theme/css/global.css" />
+	<link rel="stylesheet" href="/think/Application/Home/View//Public/static/template/theme/css/style.css" />
+	<link rel="stylesheet" href="/think/Application/Home/View//Public/static/template/theme/css/index.css" />
+	<script src="/think/Application/Home/View//Public/static/template/theme/js/setTab.js" type="text/javascript"></script>
 	</head>
 	<body>
-	<script src="/thinkadmin/Application/Home/View//Public/static/mypub/noerr.js" type="text/javascript"></script>
-	<script src="/thinkadmin/Application/Home/View//Public/static/template/theme/js/global.js" type="text/javascript"></script>
-	<script src="/thinkadmin/Application/Home/View//Public/static/template/theme/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/think/Application/Home/View//Public/static/mypub/noerr.js" type="text/javascript"></script>
+	<script src="/think/Application/Home/View//Public/static/template/theme/js/global.js" type="text/javascript"></script>
+	<script src="/think/Application/Home/View//Public/static/template/theme/js/jquery.min.js" type="text/javascript"></script>
 
 
 
@@ -22,7 +22,7 @@
 		<div class="topleft">
 			<span class="mobile"><a href="wap.php" target="_blank">手机版</a></span>
 			<span class="partline">|</span>
-			<span class="welcome">欢迎光临孔子培训网！<script type="text/javascript" src="/thinkadmin/Application/Home/View//Public/static/javascript_80E29783.php"></script></span>
+			<span class="welcome">欢迎光临孔子培训网！<script type="text/javascript" src="/think/Application/Home/View//Public/static/javascript_80E29783.php"></script></span>
 		</div>
 		<div class="topright">
 			<a href="desktop.php" target="_blank" title="点击右键，选择“目标另存为...”，将此快捷方式保存到桌面即可">保存到桌面</a>
@@ -40,7 +40,7 @@
 <!--顶部横幅广告结束-->
 <div class="clear15"></div>
 <div class="logosearchtel">
-	<div class="weblogo"><a href="index.htm"><img src="/thinkadmin/Application/Home/View//Public/static/images/logo.gif" alt="孔子培训网" border="0"/></a></div>
+	<div class="weblogo"><a href="index.htm"><img src="/think/Application/Home/View//Public/static/images/logo.gif" alt="孔子培训网" border="0"/></a></div>
 	<div class="webarea">
 		<span class="area_name">济宁12县市区</span>
 		<!--<span class="areaname">济宁12县市区</span>
@@ -341,11 +341,11 @@
 			<div class="focuslide" id="MainPromotionBanner">
 				<div class="container" id="idTransformView">
 					<ul class="slider" id="idSlider">
-					                	<li><a href="course-id-1769.html" target="_blank"><img src="/thinkadmin/Application/Home/View//Public/static/attachment/focus/14344377861h01b.gif" alt="邹城户外拓展2015暑期焦点图"/></a></li>
-                	                	<li><a href="school-91/index.htm" target="_blank"><img src="/thinkadmin/Application/Home/View//Public/static/attachment/focus/1419650419oe6sw.gif" alt="华伟培训焦点图"/></a></li>
-                	                	<li><a href="school-72/index.htm" target="_blank"><img src="/thinkadmin/Application/Home/View//Public/static/attachment/focus/1407892995epfj3.gif" alt="华文教育焦点图"/></a></li>
-                	                	<li><a href="school-224/index.htm" target="_blank"><img src="/thinkadmin/Application/Home/View//Public/static/attachment/focus/1403746827y9cyo.gif" alt="直映教育"/></a></li>
-                	                	<li><a href="school-219/index.htm" target="_blank"><img src="/thinkadmin/Application/Home/View//Public/static/attachment/focus/140313933058mw3.gif" alt="牧童学生托管焦点图"/></a></li>
+					                	<li><a href="course-id-1769.html" target="_blank"><img src="/think/Application/Home/View//Public/static/attachment/focus/14344377861h01b.gif" alt="邹城户外拓展2015暑期焦点图"/></a></li>
+                	                	<li><a href="school-91/index.htm" target="_blank"><img src="/think/Application/Home/View//Public/static/attachment/focus/1419650419oe6sw.gif" alt="华伟培训焦点图"/></a></li>
+                	                	<li><a href="school-72/index.htm" target="_blank"><img src="/think/Application/Home/View//Public/static/attachment/focus/1407892995epfj3.gif" alt="华文教育焦点图"/></a></li>
+                	                	<li><a href="school-224/index.htm" target="_blank"><img src="/think/Application/Home/View//Public/static/attachment/focus/1403746827y9cyo.gif" alt="直映教育"/></a></li>
+                	                	<li><a href="school-219/index.htm" target="_blank"><img src="/think/Application/Home/View//Public/static/attachment/focus/140313933058mw3.gif" alt="牧童学生托管焦点图"/></a></li>
                 						</ul>
 					<ul class="num" id="idNum">
 						<li>1</li>
@@ -433,92 +433,92 @@
 <div id="List1">
 <!-- 图片列表 begin -->
 <div class="pic">
-<a href="school-318/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201411/pre_1416552741plzjv.gif"  alt="大立教育"/></a> 
+<a href="school-318/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201411/pre_1416552741plzjv.gif"  alt="大立教育"/></a> 
 <span class="schoolname cfix"><a href="school-318/index.htm" target="_blank" title="大立教育">大立教育</a></span>
 <span class="seecourse"><a href="school-318/course.html" target="_blank" class="red">查看课程</a> <a href="school-318/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
 <div class="pic">
-<a href="school-226/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201407/pre_1404175725hkzzn.gif"  alt="山东运河教育集团"/></a> 
+<a href="school-226/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201407/pre_1404175725hkzzn.gif"  alt="山东运河教育集团"/></a> 
 <span class="schoolname cfix"><a href="school-226/index.htm" target="_blank" title="山东运河教育集团">山东运河教育集团</a></span>
 <span class="seecourse"><a href="school-226/course.html" target="_blank" class="red">查看课程</a> <a href="school-226/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
 <div class="pic">
-<a href="school-225/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201406/pre_1404116008djalg.gif"  alt="济宁新东方学校"/></a> 
+<a href="school-225/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201406/pre_1404116008djalg.gif"  alt="济宁新东方学校"/></a> 
 <span class="schoolname cfix"><a href="school-225/index.htm" target="_blank" title="济宁新东方学校">济宁新东方学校</a></span>
 <span class="seecourse"><a href="school-225/course.html" target="_blank" class="red">查看课程</a> <a href="school-225/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
 <div class="pic">
-<a href="school-224/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201406/pre_1403657787sjbms.gif"  alt="直映教育"/></a> 
+<a href="school-224/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201406/pre_1403657787sjbms.gif"  alt="直映教育"/></a> 
 <span class="schoolname cfix"><a href="school-224/index.htm" target="_blank" title="直映教育">直映教育</a></span>
 <span class="seecourse"><a href="school-224/course.html" target="_blank" class="red">查看课程</a> <a href="school-224/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
 <div class="pic">
-<a href="school-219/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201406/pre_1402881267wh4jb.gif"  alt="牧童学生托管中心"/></a> 
+<a href="school-219/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201406/pre_1402881267wh4jb.gif"  alt="牧童学生托管中心"/></a> 
 <span class="schoolname cfix"><a href="school-219/index.htm" target="_blank" title="牧童学生托管中心">牧童学生托管中心</a></span>
 <span class="seecourse"><a href="school-219/course.html" target="_blank" class="red">查看课程</a> <a href="school-219/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
 <div class="pic">
-<a href="school-214/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201406/pre_1401939704mjcyj.gif"  alt="山东现代职业学院"/></a> 
+<a href="school-214/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201406/pre_1401939704mjcyj.gif"  alt="山东现代职业学院"/></a> 
 <span class="schoolname cfix"><a href="school-214/index.htm" target="_blank" title="山东现代职业学院邹城招生办">山东现代职业学院</a></span>
 <span class="seecourse"><a href="school-214/course.html" target="_blank" class="red">查看课程</a> <a href="school-214/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
 <div class="pic">
-<a href="school-151/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201406/pre_1401893020rl2lw.jpg"  alt="R&amp;C街舞工作"/></a> 
+<a href="school-151/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201406/pre_1401893020rl2lw.jpg"  alt="R&amp;C街舞工作"/></a> 
 <span class="schoolname cfix"><a href="school-151/index.htm" target="_blank" title="R&amp;C街舞工作室">R&amp;C街舞工作</a></span>
 <span class="seecourse"><a href="school-151/course.html" target="_blank" class="red">查看课程</a> <a href="school-151/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
 <div class="pic">
-<a href="school-126/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201406/pre_1401890091ccah0.jpg"  alt="择邻教育"/></a> 
+<a href="school-126/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201406/pre_1401890091ccah0.jpg"  alt="择邻教育"/></a> 
 <span class="schoolname cfix"><a href="school-126/index.htm" target="_blank" title="择邻教育">择邻教育</a></span>
 <span class="seecourse"><a href="school-126/course.html" target="_blank" class="red">查看课程</a> <a href="school-126/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
 <div class="pic">
-<a href="school-118/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201406/pre_1401976154kvhmz.gif"  alt="曲阜育才实验学校"/></a> 
+<a href="school-118/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201406/pre_1401976154kvhmz.gif"  alt="曲阜育才实验学校"/></a> 
 <span class="schoolname cfix"><a href="school-118/index.htm" target="_blank" title="曲阜育才实验学校">曲阜育才实验学校</a></span>
 <span class="seecourse"><a href="school-118/course.html" target="_blank" class="red">查看课程</a> <a href="school-118/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
 <div class="pic">
-<a href="school-117/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201406/pre_1401890922p5zli.jpg"  alt="邹城市蓝话筒小主"/></a> 
+<a href="school-117/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201406/pre_1401890922p5zli.jpg"  alt="邹城市蓝话筒小主"/></a> 
 <span class="schoolname cfix"><a href="school-117/index.htm" target="_blank" title="邹城市蓝话筒小主持人培训中心">邹城市蓝话筒小主</a></span>
 <span class="seecourse"><a href="school-117/course.html" target="_blank" class="red">查看课程</a> <a href="school-117/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
 <div class="pic">
-<a href="school-115/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201406/pre_1401891072xmbd3.jpg"  alt="圣雅韩语培训"/></a> 
+<a href="school-115/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201406/pre_1401891072xmbd3.jpg"  alt="圣雅韩语培训"/></a> 
 <span class="schoolname cfix"><a href="school-115/index.htm" target="_blank" title="圣雅韩语培训">圣雅韩语培训</a></span>
 <span class="seecourse"><a href="school-115/course.html" target="_blank" class="red">查看课程</a> <a href="school-115/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
 <div class="pic">
-<a href="school-113/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201406/pre_1401890724ziipa.jpg"  alt="济宁文都公务员培"/></a> 
+<a href="school-113/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201406/pre_1401890724ziipa.jpg"  alt="济宁文都公务员培"/></a> 
 <span class="schoolname cfix"><a href="school-113/index.htm" target="_blank" title="济宁文都公务员培训学校">济宁文都公务员培</a></span>
 <span class="seecourse"><a href="school-113/course.html" target="_blank" class="red">查看课程</a> <a href="school-113/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
 <div class="pic">
-<a href="school-101/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201406/pre_1401975497an1zb.gif"  alt="邹城悦海艺术培训"/></a> 
+<a href="school-101/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201406/pre_1401975497an1zb.gif"  alt="邹城悦海艺术培训"/></a> 
 <span class="schoolname cfix"><a href="school-101/index.htm" target="_blank" title="邹城悦海艺术培训中心">邹城悦海艺术培训</a></span>
 <span class="seecourse"><a href="school-101/course.html" target="_blank" class="red">查看课程</a> <a href="school-101/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
 <div class="pic">
-<a href="school-91/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201412/pre_1419495180amd3h.gif"  alt="邹城市华伟职业培"/></a> 
+<a href="school-91/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201412/pre_1419495180amd3h.gif"  alt="邹城市华伟职业培"/></a> 
 <span class="schoolname cfix"><a href="school-91/index.htm" target="_blank" title="邹城市华伟职业培训学校">邹城市华伟职业培</a></span>
 <span class="seecourse"><a href="school-91/course.html" target="_blank" class="red">查看课程</a> <a href="school-91/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
 <div class="pic">
-<a href="school-89/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201310/pre_1381403814euflo.gif"  alt="世纪培训"/></a> 
+<a href="school-89/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201310/pre_1381403814euflo.gif"  alt="世纪培训"/></a> 
 <span class="schoolname cfix"><a href="school-89/index.htm" target="_blank" title="世纪培训">世纪培训</a></span>
 <span class="seecourse"><a href="school-89/course.html" target="_blank" class="red">查看课程</a> <a href="school-89/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
 <div class="pic">
-<a href="school-80/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201406/pre_1401892878icskn.jpg"  alt="兖州斯坦福成人高"/></a> 
+<a href="school-80/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201406/pre_1401892878icskn.jpg"  alt="兖州斯坦福成人高"/></a> 
 <span class="schoolname cfix"><a href="school-80/index.htm" target="_blank" title="兖州斯坦福成人高等教育">兖州斯坦福成人高</a></span>
 <span class="seecourse"><a href="school-80/course.html" target="_blank" class="red">查看课程</a> <a href="school-80/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
 <div class="pic">
-<a href="school-72/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201408/pre_14078872172zkat.jpg"  alt="兖州成人高考报名"/></a> 
+<a href="school-72/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201408/pre_14078872172zkat.jpg"  alt="兖州成人高考报名"/></a> 
 <span class="schoolname cfix"><a href="school-72/index.htm" target="_blank" title="兖州成人高考报名中心(老教育局函授站)">兖州成人高考报名</a></span>
 <span class="seecourse"><a href="school-72/course.html" target="_blank" class="red">查看课程</a> <a href="school-72/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
 <div class="pic">
-<a href="school-6/index.htm" target="_blank" ><img src="/thinkadmin/Application/Home/View//Public/static/attachment/face/201406/pre_14018727286gtcr.jpg"  alt="邹城市青少年户外"/></a> 
+<a href="school-6/index.htm" target="_blank" ><img src="/think/Application/Home/View//Public/static/attachment/face/201406/pre_14018727286gtcr.jpg"  alt="邹城市青少年户外"/></a> 
 <span class="schoolname cfix"><a href="school-6/index.htm" target="_blank" title="邹城市青少年户外素质拓展中心">邹城市青少年户外</a></span>
 <span class="seecourse"><a href="school-6/course.html" target="_blank" class="red">查看课程</a> <a href="school-6/baoming.html" target="_blank" class="red">立即报名</a></span>
 </div>
@@ -531,7 +531,7 @@
 </div>
 	</div>
 	<div class="clear"></div>
-	<div><img src="/thinkadmin/Application/Home/View//Public/static/template/theme/images/index/liucheng.gif" align="absmiddle" border="0"></div>
+	<div><img src="/think/Application/Home/View//Public/static/template/theme/images/index/liucheng.gif" align="absmiddle" border="0"></div>
 	<div class="clear"></div>
 	<div class="showcourse">
 										<div id="ad_indexcatad_156"></div>
@@ -908,28 +908,28 @@
 
 <!--广告处理部分开始-->
 <div align="left"  style="clear: both;">
-    <script src="/thinkadmin/Application/Home/View//Public/static/mypub/floatadv.js" type="text/javascript"></script>
+    <script src="/think/Application/Home/View//Public/static/mypub/floatadv.js" type="text/javascript"></script>
         <script type="text/javascript">
-        theFloaters.addItem('coupleAdL',6,0,'<div style="position: absolute; left: 6px; top: 42px;"><embed width=\"160\" height=\"310\" src=\"/thinkadmin/Application/Home/View//Public/static/gg/002.swf\" type=\"application/x-shockwave-flash\"></embed><br /><span style=\"text-align:left; display:block; width:30px\"><a href=\"javascript:void();\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"closeBanner();\">关闭</a></span></div>');theFloaters.addItem('coupleAdR','document.body.clientWidth-6',0,'<div style="position: absolute; right: 6px; top: 42px;"><embed width=\"160\" height=\"310\" src=\"/thinkadmin/Application/Home/View//Public/static/gg/002.swf\" type=\"application/x-shockwave-flash\"></embed><br /><span style=\"text-align:left; display:block; width:30px\"><a href=\"javascript:void();\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"closeBanner();\">关闭</a></span></div>');theFloaters.play();
+        theFloaters.addItem('coupleAdL',6,0,'<div style="position: absolute; left: 6px; top: 42px;"><embed width=\"160\" height=\"310\" src=\"/think/Application/Home/View//Public/static/gg/002.swf\" type=\"application/x-shockwave-flash\"></embed><br /><span style=\"text-align:left; display:block; width:30px\"><a href=\"javascript:void();\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"closeBanner();\">关闭</a></span></div>');theFloaters.addItem('coupleAdR','document.body.clientWidth-6',0,'<div style="position: absolute; right: 6px; top: 42px;"><embed width=\"160\" height=\"310\" src=\"/think/Application/Home/View//Public/static/gg/002.swf\" type=\"application/x-shockwave-flash\"></embed><br /><span style=\"text-align:left; display:block; width:30px\"><a href=\"javascript:void();\" onMouseOver=\"this.style.cursor=\'pointer\'\" onClick=\"closeBanner();\">关闭</a></span></div>');theFloaters.play();
     </script>
         </div>
 
 <div style="display: none" id="ad_none">
 <!--头部通栏广告-->
 <div class="header" id="ad_header_none">
-<div class="headerbanner"><a href="school-219/index.htm" target="_blank"><img src="/thinkadmin/Application/Home/View//Public/static/attachment/other/201406/1402798019pprfu.gif" alt="牧童学生托管中心" border="0"></a></div>
-<div class="headerbanner"><embed width="981" height="70" src="/thinkadmin/Application/Home/View//Public/static/gg/001.swf" type="application/x-shockwave-flash"></embed></div>
-<div class="headerbanner"><a href="school-318/index.htm" target="_blank"><img src="/thinkadmin/Application/Home/View//Public/static/attachment/other/201411/14165581696ytqb.gif" alt="济宁大立教育" border="0"></a></div>
-<div class="headerbanner"><a href="school-91/index.htm" target="_blank"><img src="/thinkadmin/Application/Home/View//Public/static/attachment/other/201406/1402028763ncm94.gif" border="0"></a></div>
-<div class="headerbanner"><a href="school-118/index.htm" target="_blank"><img src="/thinkadmin/Application/Home/View//Public/static/attachment/other/201503/1425625552upvn5.gif" border="0"></a></div>
-<div class="headerbanner"><a href="school-224/index.htm" target="_blank"><img src="/thinkadmin/Application/Home/View//Public/static/attachment/other/201406/140366302958ghi.gif" height="70" width="490" border="0"></a></div>
-<div class="headerbanner"><a href="school-72/index.htm" target="_blank"><img src="/thinkadmin/Application/Home/View//Public/static/attachment/other/201408/1407569822ructn.gif" height="70" width="490" border="0"></a></div>
+<div class="headerbanner"><a href="school-219/index.htm" target="_blank"><img src="/think/Application/Home/View//Public/static/attachment/other/201406/1402798019pprfu.gif" alt="牧童学生托管中心" border="0"></a></div>
+<div class="headerbanner"><embed width="981" height="70" src="/think/Application/Home/View//Public/static/gg/001.swf" type="application/x-shockwave-flash"></embed></div>
+<div class="headerbanner"><a href="school-318/index.htm" target="_blank"><img src="/think/Application/Home/View//Public/static/attachment/other/201411/14165581696ytqb.gif" alt="济宁大立教育" border="0"></a></div>
+<div class="headerbanner"><a href="school-91/index.htm" target="_blank"><img src="/think/Application/Home/View//Public/static/attachment/other/201406/1402028763ncm94.gif" border="0"></a></div>
+<div class="headerbanner"><a href="school-118/index.htm" target="_blank"><img src="/think/Application/Home/View//Public/static/attachment/other/201503/1425625552upvn5.gif" border="0"></a></div>
+<div class="headerbanner"><a href="school-224/index.htm" target="_blank"><img src="/think/Application/Home/View//Public/static/attachment/other/201406/140366302958ghi.gif" height="70" width="490" border="0"></a></div>
+<div class="headerbanner"><a href="school-72/index.htm" target="_blank"><img src="/think/Application/Home/View//Public/static/attachment/other/201408/1407569822ructn.gif" height="70" width="490" border="0"></a></div>
 </div>
 
 <!--首页分类间广告-->
-<div class="indexcatad" id="ad_indexcatad_5_none"><a href="school-151/index.htm" target="_blank"><img src="/thinkadmin/Application/Home/View//Public/static/attachment/other/201312/1387417170luvhd.jpg" border="0"></a></div>
-<div class="indexcatad" id="ad_indexcatad_9_none"><a href="school-80/index.htm" target="_blank"><img src="/thinkadmin/Application/Home/View//Public/static/attachment/other/201406/1402110706smhv5.gif" border="0"></a></div>
-<div class="indexcatad" id="ad_indexcatad_163_none"><a href="school-126/index.htm" target="_blank"><img src="/thinkadmin/Application/Home/View//Public/static/attachment/other/201311/13845874763msyl.jpg" height="70" width="981" border="0"></a></div>
+<div class="indexcatad" id="ad_indexcatad_5_none"><a href="school-151/index.htm" target="_blank"><img src="/think/Application/Home/View//Public/static/attachment/other/201312/1387417170luvhd.jpg" border="0"></a></div>
+<div class="indexcatad" id="ad_indexcatad_9_none"><a href="school-80/index.htm" target="_blank"><img src="/think/Application/Home/View//Public/static/attachment/other/201406/1402110706smhv5.gif" border="0"></a></div>
+<div class="indexcatad" id="ad_indexcatad_163_none"><a href="school-126/index.htm" target="_blank"><img src="/think/Application/Home/View//Public/static/attachment/other/201311/13845874763msyl.jpg" height="70" width="981" border="0"></a></div>
 
 <!--栏目课程列表间广告-->
 
@@ -937,11 +937,11 @@
 <!--栏目侧边广告-->
 
 <div class="topbanner" id="ad_topbanner_none">
-<div class="topbannerad"><a href="school-6/index.htm" target="_blank"><img src="/thinkadmin/Application/Home/View//Public/static/attachment/other/201503/1425179628yvy2t.gif" alt="邹城户外素质拓展中心" border="0"></a></div>
+<div class="topbannerad"><a href="school-6/index.htm" target="_blank"><img src="/think/Application/Home/View//Public/static/attachment/other/201503/1425179628yvy2t.gif" alt="邹城户外素质拓展中心" border="0"></a></div>
 </div>
 
 <div class="footerbanner" id="ad_footerbanner_none">
-<div class="footerbannerad"><a href="about_00877C1F.php" target="_blank"><img src="/thinkadmin/Application/Home/View//Public/static/attachment/other/201407/1406013943qhfmw.gif" border="0"></a></div>
+<div class="footerbannerad"><a href="about_00877C1F.php" target="_blank"><img src="/think/Application/Home/View//Public/static/attachment/other/201407/1406013943qhfmw.gif" border="0"></a></div>
 </div>
 </div>
 
@@ -973,19 +973,19 @@ document.write(unescape("%3Cscript src='"%20+%20_bdhmProtocol%20+/index.htm"hm.b
 	</div>
 </div>
 <div class="wangjing"></div>
-<script type="text/javascript" src="/thinkadmin/Application/Home/View//Public/static/template/theme/js/addiv.js"></script>
-<script type="text/javascript" src="/thinkadmin/Application/Home/View//Public/static/template/theme/js/selectoption.js"></script>
+<script type="text/javascript" src="/think/Application/Home/View//Public/static/template/theme/js/addiv.js"></script>
+<script type="text/javascript" src="/think/Application/Home/View//Public/static/template/theme/js/selectoption.js"></script>
 <!--漂浮咨询台开始-->
-<!-- <link href="/thinkadmin/Application/Home/View//Public/static/mypub/css/floatservice.css" rel="stylesheet" type="text/css" /> -->
-<!-- <script language='javascript' src='/thinkadmin/Application/Home/View//Public/static/data/caches/floatservice.js' type='text/javascript'></script> -->
-<!-- <script language='javascript' src='/thinkadmin/Application/Home/View//Public/static/mypub/floatservice.js' type='text/javascript'></script> -->
+<!-- <link href="/think/Application/Home/View//Public/static/mypub/css/floatservice.css" rel="stylesheet" type="text/css" /> -->
+<!-- <script language='javascript' src='/think/Application/Home/View//Public/static/data/caches/floatservice.js' type='text/javascript'></script> -->
+<!-- <script language='javascript' src='/think/Application/Home/View//Public/static/mypub/floatservice.js' type='text/javascript'></script> -->
 <!--漂浮咨询台结束-->
 
 <!-- 代码部分begin -->
 <div class="lanren">
 	<div class="slide_min"></div>
     <div class="slide_box" style="display:none;">
-    	<h2><img src="/thinkadmin/Application/Home/View//Public/static/images/slide_box.jpg" /></h2>
+    	<h2><img src="/think/Application/Home/View//Public/static/images/slide_box.jpg" /></h2>
         <p><a title="点击这里给我发消息" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1828406886&amp;site=www.cactussoft.cn&amp;menu=yes" target="_blank"><img src="http://wpa.qq.com/pa?p=2:1828406886:41"></a></p>
         <p>
         	<img src="http://demo.lanrenzhijia.com/2014/service1205/images/weixin.jpg" class="weixin" /><br />
@@ -999,22 +999,22 @@ document.write(unescape("%3Cscript src='"%20+%20_bdhmProtocol%20+/index.htm"hm.b
 
 </body>
 </html>
-<script type="text/javascript" src="/thinkadmin/Application/Home/View//Public/static/template/theme/js/ind_slide.js"></script>
-<script type="text/javascript" src="/thinkadmin/Application/Home/View//Public/static/template/theme/js/hotschool.js"></script>
-<script type="text/javascript" src="/thinkadmin/Application/Home/View//Public/static/template/theme/js/category.js"></script>
+<script type="text/javascript" src="/think/Application/Home/View//Public/static/template/theme/js/ind_slide.js"></script>
+<script type="text/javascript" src="/think/Application/Home/View//Public/static/template/theme/js/hotschool.js"></script>
+<script type="text/javascript" src="/think/Application/Home/View//Public/static/template/theme/js/category.js"></script>
 <style>
 *{ margin:0; padding:0; list-style:none;}
 img{ border:0;}
 .lanren{ position:absolute; right:0; top:150px;}
-.lanren .slide_min{ width:28px; height:112px; background:url(/thinkadmin/Application/Home/View//Public/static/images/slide_min.jpg) no-repeat; cursor:pointer;}
-.lanren .slide_box{ width:154px; height:auto; overflow:hidden; background:url(/thinkadmin/Application/Home/View//Public/static/images/slide_box_bg.jpg) repeat-y; font-size:12px; text-align:center; line-height:130%; color:#666; border-bottom:2px solid #76A20D;}
+.lanren .slide_min{ width:28px; height:112px; background:url(/think/Application/Home/View//Public/static/images/slide_min.jpg) no-repeat; cursor:pointer;}
+.lanren .slide_box{ width:154px; height:auto; overflow:hidden; background:url(/think/Application/Home/View//Public/static/images/slide_box_bg.jpg) repeat-y; font-size:12px; text-align:center; line-height:130%; color:#666; border-bottom:2px solid #76A20D;}
 .lanren .slide_box .weixin{ margin-bottom:5px;}
 .lanren .slide_box img{ cursor:pointer;}
 .lanren .slide_box p{ text-align:center; padding:5px; margin:5px;border-bottom:1px solid #ddd;}
 .lanren .slide_box span{ padding:5px 10px; display:block;}
 .lanren .slide_box span a{ color:#76A20C;}
 </style>
-<script src="/thinkadmin/Application/Home/View//Public/static/js/jquery.min.js"></script>
+<script src="/think/Application/Home/View//Public/static/js/jquery.min.js"></script>
 
 <script>
 $(function(){

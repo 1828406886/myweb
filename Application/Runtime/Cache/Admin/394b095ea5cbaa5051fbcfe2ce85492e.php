@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>用户列表</title>
+    <title>广告列表</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/think/Application/Admin/View//Public/static/css/bootstrap.css" rel="stylesheet">
@@ -76,15 +76,17 @@
             </ul>
         </div><!-- /.navbar-collapse -->
     </nav>
+
 <div id="page-wrapper">
+    
     <div class="row">
         <div class="col-md-6">
-            <a href="<?php echo U('member/add');?>" class="btn btn-success">添加用户</a>
+            <a href="<?php echo U('advert/add');?>" class="btn btn-success">添加广告</a>
         </div>
         <div class="col-md-6">
-            <form action="<?php echo U('member/index');?>" method="post">
+            <form action="<?php echo U('advert/index');?>" method="post">
                 <div class="form-group input-group">
-                    <input type="text" class="form-control" name="key" placeholder="输入用户名或者邮箱关键词搜索">
+                    <input type="text" class="form-control" name="key" placeholder="输入链接标题或者地址关键词搜索">
                     <span class="input-group-btn">
                       <button class="btn btn-default" type="button"><i class="fa fa-search"></i></button>
                     </span>
@@ -92,41 +94,27 @@
             </form>
         </div>
     </div>
-    
-
     <table class="table table-hover table-striped">
         <thead>
             <tr>
-                <td>编号</td>
-                <td>用户名</td>
-                <td>邮箱</td>
-                <td>注册时间</td>
-                <td>上次登陆</td>
-                <td>登陆IP</td>
-                <td>类型</td>
-                <td>状态</td>
-                <td>操作</td>
+                <th>编号</th>
+                <th>标题</th>
+                <th>地址</th>
+                <th>优先级</th>
+                <th>操作</th>
             </tr>
         </thead>
         <tbody>
-        <?php if(is_array($member)): foreach($member as $key=>$v): ?><tr>
+        <?php if(is_array($model)): foreach($model as $key=>$v): ?><tr>
                 <td><?php echo ($v["id"]); ?></td>
-                <td><?php echo ($v["username"]); ?></td>
-                <td><?php echo ($v["email"]); ?></td>
-                <td><?php echo (date("Y/m/d H:i:s",$v["create_at"])); ?></td>
-                <td><?php echo (date("Y/m/d H:i:s",$v["update_at"])); ?></td>
-                <td><?php echo ($v["login_ip"]); ?></td>
-                <td>
-                    <?php if($v["type"] == 1): ?><span class="label label-success">会员</span>
-                    <?php elseif($v["type"] == 2): ?><span class="label label-danger">管理员</span><?php endif; ?>
-                </td> 
-                <td><?php if($v["status"] == 1): ?>正常<?php else: ?><span style="color:red">禁用</span><?php endif; ?></td>
-                <?php if($v["status"] == 1): ?><td><a href="<?php echo U('member/update?id='); echo ($v["id"]); ?>">编辑</a> | <a href="<?php echo U('member/delete?id='); echo ($v["id"]); ?>" style="color:red;" onclick="javascript:return del('禁用后用户将不能登陆后台!\n\n请确认!!!');">禁用</a></td>
-            	<?php else: ?>
-            		<td><a href="<?php echo U('member/update?id='); echo ($v["id"]); ?>">编辑</a> | <a href="<?php echo U('member/delete?id='); echo ($v["id"]); ?>" style="color:#50AD1E;">启用</a></td><?php endif; ?>
+                <td><?php echo ($v["title"]); ?></td>
+                <td><?php echo ($v["url"]); ?></td>
+                <td><?php echo ($v["sort"]); ?></td> 
+                <td><a href="<?php echo U('advert/update?id='); echo ($v["id"]); ?>">编辑</a> | <a href="<?php echo U('advert/delete?id='); echo ($v["id"]); ?>" style="color:red;" onclick="javascript:return del('您真的确定要删除吗？\n\n删除后将不能恢复!');">删除</a></td>
             </tr><?php endforeach; endif; ?>
         </tbody>
     </table>
+    <?php echo ($page); ?>
 </div>
 
 <!-- JavaScript -->

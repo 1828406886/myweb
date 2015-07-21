@@ -6,11 +6,11 @@
     <title>后台主页</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="/thinkadmin/Application/Admin/View//Public/static/css/bootstrap.css" rel="stylesheet">
+    <link href="/think/Application/Admin/View//Public/static/css/bootstrap.css" rel="stylesheet">
 
     <!-- Add custom CSS here -->
-    <link href="/thinkadmin/Application/Admin/View//Public/static/css/sb-admin.css" rel="stylesheet">
-    <link rel="stylesheet" href="/thinkadmin/Application/Admin/View//Public/static/font-awesome/css/font-awesome.min.css">
+    <link href="/think/Application/Admin/View//Public/static/css/sb-admin.css" rel="stylesheet">
+    <link rel="stylesheet" href="/think/Application/Admin/View//Public/static/font-awesome/css/font-awesome.min.css">
 </head>
 
 <body>
@@ -47,7 +47,10 @@
     <li class="dropdown">
         <a href="<?php echo U('member/index');?>"><i class="fa fa-users"></i> 用户管理</a>  
     </li>
-     <li class="dropdown">
+    <li class="dropdown">
+        <a href="<?php echo U('advert/index');?>"><i class="fa fa-comment"></i> 广告管理</a>  
+    </li>
+    <li class="dropdown">
         <a href="<?php echo U('links/index');?>"><i class="fa fa-link"></i> 链接管理</a>
     </li>
     <li class="dropdown">
@@ -215,9 +218,9 @@
 </div>
 
 <!-- JavaScript -->
-<script src="/thinkadmin/Application/Admin/View//Public/static/js/jquery-1.10.2.js"></script>
-<script src="/thinkadmin/Application/Admin/View//Public/static/js/bootstrap.js"></script>
-<script src="/thinkadmin/Application/Admin/View//Public/static/js/app.js"></script>
+<script src="/think/Application/Admin/View//Public/static/js/jquery-1.10.2.js"></script>
+<script src="/think/Application/Admin/View//Public/static/js/bootstrap.js"></script>
+<script src="/think/Application/Admin/View//Public/static/js/app.js"></script>
 
 </body>
 </html>

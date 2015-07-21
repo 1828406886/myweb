@@ -8,11 +8,11 @@
     <title>[title]</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="/thinkadmin/Application/Admin/View//Public/static/css/bootstrap.css" rel="stylesheet">
+    <link href="/think/Application/Admin/View//Public/static/css/bootstrap.css" rel="stylesheet">
 
     <!-- Add custom CSS here -->
-    <link href="/thinkadmin/Application/Admin/View//Public/static/css/sb-admin.css" rel="stylesheet">
-    <link rel="stylesheet" href="/thinkadmin/Application/Admin/View//Public/static/font-awesome/css/font-awesome.min.css">
+    <link href="/think/Application/Admin/View//Public/static/css/sb-admin.css" rel="stylesheet">
+    <link rel="stylesheet" href="/think/Application/Admin/View//Public/static/font-awesome/css/font-awesome.min.css">
 </head>
 <body>
 <div class="container">
@@ -45,7 +45,7 @@
         </div>
     </div>
 </div>
-<script src="/thinkadmin/Application/Admin/View//Public/static/js/jquery-1.10.2.js"></script>
+<script src="/think/Application/Admin/View//Public/static/js/jquery-1.10.2.js"></script>
 <script>
     $(function(){
         $(".verify").click(function(){

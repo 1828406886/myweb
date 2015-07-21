@@ -1,0 +1,21 @@
+[ 2015-07-21T09:31:12+08:00 ] 192.168.33.1 /think/course-id-1769.html
+ERR: 无法加载控制器:Course-id-1769
+
+[ 2015-07-21T09:31:55+08:00 ] 192.168.33.1 /think/category_6BDB19C9.php
+ERR: 无法加载控制器:Category_6BDB19C9.php
+
+[ 2015-07-21T09:32:00+08:00 ] 192.168.33.1 /think/wap.php
+ERR: 无法加载控制器:Wap.php
+
+[ 2015-07-21T09:32:12+08:00 ] 192.168.33.1 /think/friendlink.html
+ERR: 无法加载控制器:Friendlink
+
+[ 2015-07-21T09:32:27+08:00 ] 192.168.33.1 /think/category-catid-138.html
+ERR: 无法加载控制器:Category-catid-138
+
+[ 2015-07-21T09:32:44+08:00 ] 192.168.33.1 /think/school-6/index.htm
+ERR: 无法加载控制器:School-6
+
+[ 2015-07-21T09:51:33+08:00 ] 192.168.33.1 /think/admin
+ERR: 无法加载控制器:Admin
+
