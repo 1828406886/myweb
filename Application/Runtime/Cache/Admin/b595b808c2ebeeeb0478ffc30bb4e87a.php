@@ -109,8 +109,8 @@
                             <i class="fa  fa-comment fa-5x"></i>
                         </div>
                         <div class="col-xs-6 text-right">
-                            <p class="announcement-heading">456</p>
-                            <p class="announcement-text">留言</p>
+                            <p class="announcement-heading"><?php echo ($advert); ?></p>
+                            <p class="announcement-text">广告</p>
                         </div>
                     </div>
                 </div>
@@ -118,10 +118,10 @@
                     <div class="panel-footer announcement-bottom">
                         <div class="row">
                             <div class="col-xs-6">
-                                查看留言
+                                查看广告
                             </div>
                             <div class="col-xs-6 text-right">
-                                <i class="fa fa-arrow-circle-right"></i>
+                                <a href="<?php echo U('advert/index');?>"><i class="fa fa-arrow-circle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -136,7 +136,7 @@
                             <i class="fa fa-users fa-5x"></i>
                         </div>
                         <div class="col-xs-6 text-right">
-                            <p class="announcement-heading">12</p>
+                            <p class="announcement-heading"><?php echo ($member); ?></p>
                             <p class="announcement-text">用户</p>
                         </div>
                     </div>
@@ -148,7 +148,7 @@
                                 管理用户
                             </div>
                             <div class="col-xs-6 text-right">
-                                <i class="fa fa-arrow-circle-right"></i>
+                                <a href="<?php echo U('member/index');?>"><i class="fa fa-arrow-circle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -163,7 +163,7 @@
                             <i class="fa fa-edit fa-5x"></i>
                         </div>
                         <div class="col-xs-6 text-right">
-                            <p class="announcement-heading">18</p>
+                            <p class="announcement-heading"><?php echo ($post); ?></p>
                             <p class="announcement-text">文章</p>
                         </div>
                     </div>
@@ -175,7 +175,7 @@
                                 管理文章
                             </div>
                             <div class="col-xs-6 text-right">
-                                <i class="fa fa-arrow-circle-right"></i>
+                                <a href="<?php echo U('post/index');?>"><i class="fa fa-arrow-circle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -190,7 +190,7 @@
                             <i class="fa fa-link fa-5x"></i>
                         </div>
                         <div class="col-xs-6 text-right">
-                            <p class="announcement-heading">56</p>
+                            <p class="announcement-heading"><?php echo ($links); ?></p>
                             <p class="announcement-text">链接</p>
                         </div>
                     </div>
@@ -202,7 +202,7 @@
                                 管理链接
                             </div>
                             <div class="col-xs-6 text-right">
-                                <i class="fa fa-arrow-circle-right"></i>
+                                <a href="<?php echo U('links/index');?>"><i class="fa fa-arrow-circle-right"></i></a>
                             </div>
                         </div>
                     </div>
